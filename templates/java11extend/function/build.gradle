@@ -16,6 +16,8 @@ dependencies {
 
     compile 'com.openfaas:model:0.1.1'
     compile 'com.openfaas:entrypoint:0.1.0'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.11.0'
+    compile 'org.apache.commons:commons-lang3:3.10'
 }
 
 // In this section you declare where to find the dependencies of your project
