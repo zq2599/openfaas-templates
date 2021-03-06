@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.openfaas:model:0.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../software/mavenrepo/repository/com/openfaas/model/0.1.1/model-0.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../software/mavenrepo/repository/com/openfaas/model/0.1.1/model-0.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../software/mavenrepo/repository/com/openfaas/model/0.1.1/model-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
