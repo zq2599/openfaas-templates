@@ -1,0 +1,3 @@
+language: simplespringboot
+welcome_message: |
+  You have created a function using the java8 and maven and springboot template
