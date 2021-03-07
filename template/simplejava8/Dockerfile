@@ -43,7 +43,7 @@ ENV upstream_url="http://127.0.0.1:8082"
 ENV mode="http"
 
 # 拉起业务进程的命令，这里就是启动java进程
-ENV fprocess="java -XX:+UseContainerSupport -jar java8maven-1.0-SNAPSHOT-jar-with-dependencies.jar"
+ENV fprocess="java -jar java8maven-1.0-SNAPSHOT-jar-with-dependencies.jar"
 
 # 容器对外暴露的端口，也就是fwatchdog进程监听的端口
 EXPOSE 8080
